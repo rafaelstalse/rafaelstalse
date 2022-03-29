@@ -4,6 +4,7 @@
 - 🚀 Futuro **Data Engineere**
 - 📚 Constante aprendizado em **Python** suas libs e frameworks
 - 🤖 Ainda vou salvar vidas utilizando **IA** e **Machine Learnig**
+- 👾 Repositório pessoal <a href="https://github.com/rafaelrossim" target="_blank">Rafael Rossim</a>
 
 <div align="center">
   <a href="https://github.com/rafaelstalse">
