@@ -6,10 +6,10 @@
 - 🤖 Ainda vou salvar vidas utilizando **IA** e **Machine Learnig**
 - 👾 Repositório pessoal <a href="https://github.com/rafaelrossim" target="_blank">Rafael Rossim</a>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafaelstalse">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelrossim&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrossim&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelstalse&show_icons=true&theme=dracula"/>
+  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelstalse&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
   
 ## 🛠 Tools
